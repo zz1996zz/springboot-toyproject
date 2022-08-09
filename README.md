@@ -6,8 +6,9 @@
 - 단, 수정 및 삭제를 할 때는 등록한 사람만이 수정 및 삭제를 할 수 있습니다.
 
 ## Environment
+- Java 11
 - Eclipse
-- H2 database
+- H2 database(2.1.212)
 - SpringBoot
 - Spring Data JPA
 - JSP
